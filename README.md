@@ -1,2 +1,2 @@
 # pr-workshop
-temporary repo for pull request workshop
+temporary repository for pull request workshop
